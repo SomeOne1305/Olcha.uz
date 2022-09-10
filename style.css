@@ -42,18 +42,20 @@ nav{
     height: 150px;
     background: linear-gradient(90deg, #E96443, #904E95);
 }
-
 .FirstNav{
     width: 100%;
+    border-bottom: 1px solid black;
+}
+.FirstNav > .container{
+    width: 1375;
     height: 60px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid black;
 }
 
 .partOne{
-    width: 40%;
+    width: 30%;
     height: 100%;
     display: flex;
     justify-content: space-between;
@@ -87,6 +89,7 @@ nav{
     padding: 0 15px;
     background-color: #fff;
     box-shadow: 0 0 5px black;
+    z-index: 1;
     display: none;
 }
 
@@ -194,8 +197,7 @@ nav{
     font-size: 22px;
 }
 .searchMenu{
-    max-width: 400px;
-    width: 230px;
+    width: 45%;
     height: auto;
     background-color: #fff;
     border-radius: 25px;
@@ -314,12 +316,12 @@ nav{
 .left{
     position: absolute;
     top: 45%;
-    left: -4%;
+    left: 0%;
 }
 .right{
     position: absolute;
     top: 45%;
-    right: -4%;
+    right: 0%;
 }
 .slider{
     width: 170px;
@@ -332,7 +334,24 @@ nav{
     align-items: center;
     text-align: center;
 }
+.sliders::-webkit-scrollbar{
+    display: none;
 
+}
+
+.advertisement{
+    width: 100%;
+    height: 135px;
+    margin: 30px 0;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.advertisement img{
+    border-radius: 10px;
+}
 /* Make responsive */
 @media (max-width:1375px){
     .container{
