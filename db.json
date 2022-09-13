@@ -1,10 +1,148 @@
 {
     "phones":[
         {
-            "id":"1",
-            "name":"",
-            "price":"",
-            "info":""
+            "id":1,
+            "name":"Xiaomi Redmi Note 11 Pro 128GB 8 GB ",
+            "price":"3 121 000",
+            "info":"Впечатляющее качество съемки Основная камера на 108 МП оснащена сенсором Samsung HM2 размером 1/1.52″ и поддерживает технологию объединения пикселей 9-в-1, которая обеспечивает большие пиксели 2.1 мкм. Благодаря двойному исходному ISO, можно получать четкие и текстурированные изображения с пониженным уровнем шума, даже в условиях низкой освещенности. Это также позволяет напрямую выводить изображения с разрешением 108 мегапикселей, сохраняя больше деталей, что удобно для масштабирования или кадрирования для лучшей композиции. Redmi Note 11 Pro оборудован широкоугольной камерой на 8 МП",
+            "category":"Смартфоны",
+            "productColor":"Grey",
+            "mainImage":"https://olcha.uz/image/425x425/products/rEES4fDb0cYy8rm4TsLWVIoh1FQeCHDj7WIT4d977eQpHrVrxNQwJxKJVDzL.",
+            "backView":"https://olcha.uz/image/425x425/products/5TH1CmMiY3kB81RxjPejEkNQLP65m2CXx6CSH4rTmOvBCSo1pEYriE0zjN2s.",
+            "forwardView":"https://olcha.uz/image/425x425/products/XcMX2ygO87HfVWsCs7o4XwqWTFdVmTwSP4LJRrQITu5jlGHdAucncBBB6jLk.",
+            "edgeView":"https://olcha.uz/image/425x425/products/2XhNXGvtky9kl9nb6hmGpcV0jRFfZwFRz2goGoTz28AIjJ0Gu1TVNjchseAa."
+        },
+        {
+            "id":2,
+            "name":"Xiaomi Redmi Note 11 6 GB 128GB",
+            "price":"2 450 000",
+            "info":"Смартфоны Redmi Note от Xiaomi в особой презентации не нуждаются. Аппараты линейки не раз становились бестселлерами за счет хорошего соотношения цены и качества. Сегодня смотрим на Redmi Note 11.Совершенно новый дизайн гаджета отличается плоской рамкой и минималистичным стилем. Смартфон Редми Ноут 11 оснащен AMOLED-дисплеем с разрешением FullHD+ и частотой обновления экрана 90 Гц. Пиковая яркость достигает 1000 нит.",
+            "category":"Смартфон",
+            "productColor":"Графитово-серый",
+            "mainImage":"https://olcha.uz/image/425x425/products/Q25xwR9W7nPpnHwKTdWcPs0yHQPLLG9u1z6P5Z88f8RePUN8hUCJbkQo7ipz.jpeg",
+            "backView":"",
+            "forwardView":"https://olcha.uz/image/425x425/products/aVa70CMtjbefJ6u8HfJ8ccPeNeBvIEHQNvlPFC1VrIiCeh0cHtZekXyV5J89.png",
+            "edgeView":""
+        },
+        {
+            "id":3,
+            "name":"Samsung Galaxy A32 6 GB 128GB",
+            "price":"2 675 000",
+            "info":"Смартфон Galaxy A32 оснащён гибко настраиваемым экраном «Always On Display» - вместо обычного индикатора уведомлений, вы получаете возможность пользоваться базовыми функциями и считывать необходимую информацию из выключенного экрана, что также помогает экономить лишний расход заряда батареи. Современные тренды по усовершенствованию управления конфиденциальными данными не обошли и Galaxy A32. В новом смартфоне от Samsung также теперь присутствует сканер отпечатков пальцев с оптическим сенсором на дисплее.",
+            "category":"Смартфон",
+            "productColor":"Черный",
+            "mainImage":"https://olcha.uz/image/425x425/products/YqLPUnnHd4PKlO3vEbCXpcvDSo3cMoxpNoQeVpaASr6HLOyh7QxVs1ewDzhQ.jpeg",
+            "backView":"https://olcha.uz/image/425x425/products/MDVK8fLvjDK1YDbbmNSYsiyLn0tFs0ifwqgDXZRcjOOwgumU0uxwO8ED4y2K.jpeg",
+            "forwardView":"https://olcha.uz/image/425x425/products/PcOY2O5WkC9LfpkJ6hObwqM2s4sxcxt1eA1aodADLmn5xMPPF6JaKUCuDnJE.jpeg",
+            "edgeView":"https://olcha.uz/image/72x72/products/QrE503w85wj8bzHiQJqO8MnS3kfQypzYih0dizMibRGJqhWAw2qypVoXGN5E.jpeg"
+        },
+        {
+            "id":4,
+            "name":"Samsung Galaxy A33 5G 6/128GB",
+            "price":"3 164 000",
+            "info":"Его размеры 159.7x74x8.1 и вес 186 г. Он оснащен Super AMOLED+-дисплеем с размером 6.4 дюйма. Разрешение составляет 1080x2400 пикселей, плотность пикселей 411 ppi. Для селфи и видеозвонков отвечает Одна предна камера с 13 MP. Для базовых фото и видео доступная Четверная задняя камера 48 MP. Процессор есть Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55). Емкость аккумулятора 5000 mAh.",
+            "category":"Смартфон",
+            "productColor":"Черный",
+            "mainImage":"https://olcha.uz/image/425x425/products/bx1kVQH3qg8B42jYfMdTOM53Dc8YnUcxUMFbDthCuHzHOB6DoKmwPX0ahTXx.jpeg",
+            "backView":"https://olcha.uz/image/425x425/products/jcC5kMGXAyRLFtfqWCITSD26tQ97AQGjVDAlltYk0cmmyoYMst1InBacgwP2.jpeg",
+            "forwardView":"https://olcha.uz/image/425x425/products/xWAJ6l7dM68mzV4PuXPidoM5IqMnEbkHgYr4icjedqWv2gHtoIg1glwCEvt3.jpeg",
+            "edgeView":"https://olcha.uz/image/425x425/products/SnIaIWGNPytws07rZQJcthwbvBGa2RECVLsuvKjRIk9LEuR3VB3fHUPtJFUW.jpeg"
+        },
+        {
+            "id":5,
+            "name":"Xiaomi Redmi Note 11 6 GB 128GB",
+            "price":"2 450 000",
+            "info":"Смартфоны Redmi Note от Xiaomi в особой презентации не нуждаются. Аппараты линейки не раз становились бестселлерами за счет хорошего соотношения цены и качества. Сегодня смотрим на Redmi Note 11.Совершенно новый дизайн гаджета отличается плоской рамкой и минималистичным стилем. Смартфон Редми Ноут 11 оснащен AMOLED-дисплеем с разрешением FullHD+ и частотой обновления экрана 90 Гц. Пиковая яркость достигает 1000 нит.",
+            "category":"Смартфон",
+            "productColor":"Звездно голубой",
+            "mainImage":"https://olcha.uz/image/425x425/products/FTP5IqHNuZ6TcAoJsNYLKqw1cSVgbdeV32phTv148YBreoj3tVTjNcSnzCEn.jpeg",
+            "backView":"",
+            "forwardView":"https://olcha.uz/image/425x425/products/Z1SUEKrxjKWf3wFMcuk2Ay0yUTxCntm9OTsyoT0W5ZgH54NBb5RnW0zli7cv.png",
+            "edgeView":""
+        },
+        {
+            "id":6,
+            "name":"Samsung Galaxy A23 (A235) 4/128GB",
+            "price":"2 441 000",
+            "info":"Смартфон Samsung Galaxy A23 (A235) 4/128Gb Получите всё и сразу. 6,6-дюймовый TFT-дисплей Galaxy A23 с V-образным вырезом позволяет видеть и делать больше. С технологией FHD+ и частотой обновления 90 Гц контент всегда будет оставаться четким и плавным. Простые изящные изгибы Ambient Edge безупречно соединяют камеру с корпусом Galaxy A23. Тонкий и симметричный смартфон Galaxy A23 выполнен в черном, белом, голубом и персиковом цветах. Снимайте невероятно плавные видео и запечатлейте мельчайшие детали даже при слабом освещении благодаря технологии OIS на Galaxy A23.",
+            "category":"Смартфон",
+            "productColor":"Черный",
+            "mainImage":"https://olcha.uz/image/425x425/products/OMh2lqKOLu4KE3MPrEhLfY8BMwOcFB7nu69P1fptACbDmflSJE0AGn4Nw7WX.",
+            "backView":"https://olcha.uz/image/425x425/products/F7hd84VZbWXGWJ8GrwyDVlvLZiGaV6cStT1bjhWMSkO1VX031qOQdmhZRbFR.",
+            "forwardView":"",
+            "edgeView":"https://olcha.uz/image/425x425/products/2WOHQULEZue6X08j90d8FPpmQCiRk7FPh3R8GKuJJQz7PiCmNaHRNMnvyMZ9."
+        },
+        {
+            "id":7,
+            "name":"Samsung Galaxy A13 Черный 4/64 GB",
+            "price":"2 054 000",
+            "info":"Благодаря 6,6-дюймовому экрану Infinity-V на смартфоне Galaxy A13 вы сможете увидеть всё, что было скрыто от вашего взгляда. Наслаждайтесь живым четким изображением с технологией FHD+. Galaxy A13 сочетает деликатные цвета и приятную на ощупь текстуру. Благодаря изящным изгибам его удобно держать при работе с экраном. Выберите цвет по вкусу: черный, белый, голубой или персиковый. Запечатлейте ценные моменты во всех деталях с основной камерой 50 Мп. Расширьте угол обзора с ультраширокоугольной камерой.",
+            "category":"Смартфон",
+            "productColor":"Черный",
+            "mainImage":"https://olcha.uz/image/425x425/products/QZFwvYXeNLbtnvf6bY1aR1bUZsyDzxyvOoLHMSj5AlKU3FwcQwTHacJb6BT3.",
+            "backView":"https://olcha.uz/image/425x425/products/gInfeSe0xAmIyqgoMwHIiQ8cv9C07CU4zfYHGHTav8zVjYMK5EJXAhxnSPnP.",
+            "forwardView":"https://olcha.uz/image/425x425/products/LMxcREts74aY6SykE4lshi27eG2rt7rs0JMyCdkjAEHinFmHWK6tGSBhbUjC.",
+            "edgeView":"https://olcha.uz/image/425x425/products/BYQFyEZagS4SPLvFDae7QBcllMgEUILIDLoQwBIMt6PL8230K9mpagwLvbxd."
+        },
+        {
+            "id":8,
+            "name":"Xiaomi Poco X4 Pro 5G Черный 8/256 GB",
+            "price":"3 730 000",
+            "info":"В серии POCO X теперь используется дисплей AMOLED и поддерживается цветовой охват DCI-P3. Расширенное цветовое пространство для более сочной картинки и кинематографического эффекта. Диафрагма фронтальной камеры составляет 2,96 мм, что расширяет поле зрения. Чем бы вы ни занимались: просмотром веб-страниц или играми, высокая частота обновления 120 Гц обеспечит беспрецедентное качество.",
+            "category":"Смартфон",
+            "productColor":"Черный",
+            "mainImage":"https://olcha.uz/image/425x425/products/QmtLgrJYKAxlIy0Sal4Nut1qSQmTtcqV7k2qgis1xMbtKHKo8EQd2uz0Vrgu.jpeg",
+            "backView":"",
+            "forwardView":"",
+            "edgeView":""
+        },
+        {
+            "id": 9,
+            "name":"Xiaomi 12 Lite 5G 8/128GB",
+            "price":"4 551 000",
+            "info":"Xiaomi 12 Lite — стильный технологический аксессуар для ценителей элегантности. Один из самых тонких и легких смартфонов Xiaomi весом 173 г и толщиной 7,29 мм идеально дополнит любой образ. Запечатлейте изображение со сверхчеткой детализацией под любым углом съемки благодаря системе из трех камер студийного уровня с основным модулем 108 Мп. Фронтальная камера 32 Мп гарантирует селфи беспрецедентного уровня качества.",
+            "category":"Смартфон",
+            "productColor":"",
+            "mainImage":"https://olcha.uz/image/425x425/products/1KNJdaIIzMIkBR6oJP5sRieqrjPjn6apP8OcAVxM8V5JshtEOTEEWdbt2j4P.",
+            "backView":"https://olcha.uz/image/425x425/products/WD9HYuVLmUYKQbZfHRGN6JLCIELyYYqVKFkQSGz4M3SBKdsTVCQNAV4DocJs.",
+            "forwardView":"https://olcha.uz/image/425x425/products/jHTNVtW5o4yYFolzCsy11WbxcOViDC7qtXw9RSwWXOLHaD3GEoKG0jGpeTHa.",
+            "edgeView":"https://olcha.uz/image/425x425/products/tliJx8ycKQzqhFoAewMQxRp4MxpPTJHpN1trWy0uak6Ld5wFb8hc9lany0qQ."
+        },
+        {
+            "id":10,
+            "name":"Realme GT Master Edition 5G 6/128GB Daybreak blue",
+            "price":"3 952 000",
+            "info":"Наша жизнь - большое приключение Познайте окружающий мир и себя Получайте новые эмоции в повседневных событиях realme GT Master Edition Дизайн от Наото Фукасавы Храните теплые воспоминания о путешествиях Используйте эксклюзивный режим 'Улица' для съемки в жанре стрит стайл Оставайтесь любопытными. Не прекращайте двигаться. Дизайн от наото фукасава realme GT Master Edition, созданный Наото Фукасавой, получил награду iF Design Award 2021 года. Премия iF Design Award, или сокращенно iF, была учреждена в 1953 году и является 'Оскаром' промышленного дизайна.",
+            "category":"Смартфон",
+            "productColor":"Daybreak blue",
+            "mainImage":"https://olcha.uz/image/425x425/products/vytFDY8xTJ2xMTfon3rtaRRA9WYdGo87B5WFpegZYquJi3dcPCtkGS5OgiGY.",
+            "backView":"https://olcha.uz/image/425x425/products/McYmuQjugR8MteLdPzNoh3eUJPrysiwHBDk3U3GdeiF3f8zENIYJf6BXnf1A.",
+            "forwardView":"https://olcha.uz/image/425x425/products/wZw4tDxnhtpYsPZQBxgSccIPBC2S9ec96Lsre5dTqzUb1YC5KNgoyI1fClPc.",
+            "edgeView":"https://olcha.uz/image/425x425/products/NrNfm98WzVWcHFAKO8LNkbpm5voTdsqae2I0d6u3yL33Gf16fqmtyXfiUdOb."
+        },
+        {
+            "id":11,
+            "name":"Apple iPhone 12 Pro 128ГБ",
+            "price":"11 766 000",
+            "info":"Крупнейший онлайн-магазин, где представлены тысячи модели товаров с подробными описаниями, фотографиями и характеристиками. На сайте продается огромное количество разнообразных товаров: книги, игрушки, электроника, одежда, аксессуары и многое другое, которые отличаются качеством и низкой стоимостью. С нами вы получите свою доставку намного быстрее. К тому же, мы позаботимся обо всех деталях пересылки и покупки и просто привезем вашу покупку к вам домой.",
+            "category":"Смартфон",
+            "productColor":"Black",
+            "mainImage":"https://olcha.uz/image/425x425/products/JycVy8CpsCc7kDnmVQmj6abBy5k5eYOIvLeRQnHaT46wFKvLQRwP9YFkB64K.jpeg",
+            "backView":"https://olcha.uz/image/425x425/products/WIQH5rvV9kKDBvupCN9EspZiJTOuHb68LoKJQCDavNlVBS9iBQSWpp7qlQHZ.jpeg",
+            "forwardView":"https://olcha.uz/image/425x425/products/uVLzj9bE7aTRkiHDAkH3EibCWIFZapB5IIgMFG2hEhSrfjeUoO0N1SrmLmCN.jpeg",
+            "edgeView":""
+        },
+        {
+            "id":12,
+            "name":"Apple iPhone 12 Pro 512GB Pacific Blue",
+            "price":"14 208 000",
+            "info":"Крупнейший онлайн-магазин, где представлены тысячи модели товаров с подробными описаниями, фотографиями и характеристиками. На сайте продается огромное количество разнообразных товаров: книги, игрушки, электроника, одежда, аксессуары и многое другое, которые отличаются качеством и низкой стоимостью. С нами вы получите свою доставку намного быстрее. К тому же, мы позаботимся обо всех деталях пересылки и покупки и просто привезем вашу покупку к вам домой.",
+            "category":"Смартфон",
+            "productColor":"Pacific Blue",
+            "mainImage":"https://olcha.uz/image/425x425/products/w5UbCVvhsqZAdUBSHT0yxFvRdAFGBayl4Jhx11q4HIfVLglwaDpWwDqKDcf3.jpeg",
+            "backView":"",
+            "forwardView":"",
+            "edgeView":""
         }
     ]
 }

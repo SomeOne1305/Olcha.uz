@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <style>
+    *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .img{
+      width: 300px;
+      height: 400px;
+      background-image: url(https://olcha.uz/image/425x425/products/F7hd84VZbWXGWJ8GrwyDVlvLZiGaV6cStT1bjhWMSkO1VX031qOQdmhZRbFR.);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size:contain;
+      cursor: pointer;
+      border: 1px solid red;
+    }
+  </style>
+  <div class="img">
+
+  </div>
+  <script>
+    let image = document.querySelector('.img')
+    image.addEventListener('mousemove', (e)=>{
+      let x = e.clientX
+      let y = e.clientY
+      image.style.backgroundSize = "200%"
+      image.style.backgroundPosition = `${x * 200 / image.clientWidth}% ${y * 200 / image.clientHeight}%`
+      console.log();
+    })
+    image.addEventListener('mouseout', (e)=>{
+      image.style.backgroundSize = "contain"
+      image.style.backgroundPosition = "center"
+    })
+</script>
+</body>
+</html>
