@@ -122,5 +122,13 @@ function card(data){
         let buyIm = document.createElement('img')
             buyIm.setAttribute('src', "./img/statistics.svg")
             buy.append(buyIm)
+
+
+            card.addEventListener('click', ()=>{
+                link.setAttribute('href', "./phones.html")
+                localStorage.setItem('id', item.id)
+                localStorage.setItem('product', item.name)
+                localStorage.setItem('category', item.category)
+            })
     })
 }

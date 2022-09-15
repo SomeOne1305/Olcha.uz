@@ -423,12 +423,186 @@ nav {
     justify-content: space-between;
 }
 .settings{
-    width: 40%;
+    width: 55%;
     height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     border: 1px solid red;
 }
 
 select{
-    width: 100px;
+    width: 150px;
+    border:none;
+    border-radius: 3px;
+    background-color: #EDEDED;
+    cursor:pointer;
 }
- 
+select:hover{
+    background-color: #fff;
+}
+
+.stars{
+    color: gray;
+}
+
+.copy{
+    color: gray;
+    font-weight: 800 !important;
+    cursor: pointer;
+}
+.copy.active{
+    color: #EB1537;
+}
+.shareProduct{
+    cursor: pointer;
+    color: #EB1537;
+    position: relative;
+}
+.shareProduct a{
+    color: #EB1537;
+    text-decoration: none;
+}
+
+.networks{
+    width: 250px;
+    height: 200px;
+    padding: 25px;
+    position: absolute;
+    top: 0;
+    left: 110%;
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);  
+    visibility: hidden;
+}
+.networks li{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    color: #000;
+    margin-bottom: 15px;
+}
+.fa-facebook{
+    font-size: 32px;
+    color: #0067DD;
+    margin-right: 10px;
+}
+.networks ion-icon{
+    margin-right: 15px;
+    font-size: 20px;
+    color: green;
+}
+.network{
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--clr);
+    color: #fff;
+    margin-right: 10px;
+}
+.networks span:hover{
+    color: #68A5EB;
+}
+.shareProduct:hover .networks{
+    visibility: visible;
+    z-index: 1;
+    background-color: #fff;
+}
+.About{
+    width: 100%;
+    height: 120vh;
+    display: flex;
+    border: 1px solid red;
+}
+.imagesBlock{
+    height: 70%;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border: 1px solid red;
+}
+
+.img img{
+    width: 100%;
+    height: 100%;
+}
+
+.hoverMagnifierMirror{
+    width: 30%;
+    height: 60%;
+    margin: 20px 0 0 20px;
+    border: 1px solid red;
+}
+
+.infoContainer{
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    border: 1px solid red;
+}
+.price{
+    font-size: 30px;
+}
+.infoContainer p{
+    font-size: 16px;
+    color: #8A8A8A;
+    margin: 15px 0;
+}
+.infoContainer span{
+    color: #000;
+}
+
+.hoverMagnifierMirror{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    cursor: pointer;
+}
+/* Make responsive */
+@media (max-width:1375px){
+    .container{
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    .advertisement{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+}
+@media (max-width: 1200px) {
+    .container{
+        max-width: 100%;
+        margin: 0;
+    }
+    .searchMenu{
+        width: 250px;
+    }
+    /* .partTwo{
+        max-width: 50vw !important;
+        display: flex;
+        justify-content: space-between;
+        border: var(--border);
+    }
+    .partOne{
+        max-width: 50vw !important;
+        border: var(--border);
+    } */
+    .phoneNumber{
+        display: none;
+    }
+}

@@ -387,6 +387,7 @@ nav{
     display: flex;
     flex-direction: column;
     font-family: var(--raleway-font);
+    cursor: pointer;
 }
 
 .productImage{
