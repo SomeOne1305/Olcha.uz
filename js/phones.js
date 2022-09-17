@@ -63,10 +63,10 @@ function setItems(data) {
 
     let image = document.querySelector('.hoverMagnifierMirror')
     image.addEventListener('mousemove', (e)=>{
-      let x = e.clientX + 230
-      let y = e.clientY + 300
+      let x = e.clientX
+      let y = e.clientY 
       image.style.backgroundSize = "130%"
-      image.style.backgroundPosition = `${x * 100 / image.clientWidth}% ${y * 100 / image.clientHeight}%`
+      image.style.backgroundPosition = `${x * 100 / image.clientHeight}% ${y * 100 / image.clientWidth}%`
       console.log(`y:${y}`);
     })
     image.addEventListener('mouseout', (e)=>{

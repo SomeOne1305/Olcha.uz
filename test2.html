@@ -46,7 +46,7 @@
     let img = document.querySelector('.imageTr')
     image.addEventListener('mousemove', (e)=>{
       let x = e.clientX
-      let y = e.clientY - 60
+      let y =e.clientY  
       image.style.backgroundSize = "200%"
       image.style.backgroundPosition = `${x * 200 / image.clientWidth}% ${y * 200 / image.clientHeight}%`
       console.log();
@@ -59,7 +59,7 @@
     img.addEventListener('mousemove', (e)=>{
       let w = e.clientX
       let h = e.clientY
-      img.querySelector('img').style.transform = `scale(2) translateX(${w * 100 / img.clientWidth}%) translateY(${h * 100 / img.clientHeight}%)`
+      img.style.transformOrigin = `${w * 100 / img.clientWidth}% ${h * 100 / img.clientHeight}%`
       // img.querySelector('img').style.transform = `translateX(${w * 100 / img.clientWidth}) translateY(${h * 100 / img.clientHeight})`
     console.log(w);
     })
